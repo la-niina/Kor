@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kor</string>
+    <string name="initial_x">0</string>
+    <string name="initial_y">0</string>
+
+</resources>

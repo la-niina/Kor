@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="floating_window_width">250dp</dimen>
+    <dimen name="floating_window_height">300dp</dimen>
+</resources>
