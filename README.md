@@ -4,6 +4,7 @@ Kor is a floating windows sample code written in kotlin for standout windows aka
 # Usage 
 
 ```
+git clone https://github.com/la-niina/Kor.git
 
 ```
 
