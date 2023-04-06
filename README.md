@@ -4,11 +4,9 @@ Kor is a floating windows sample code written in kotlin for standout windows aka
 # Screen shots
 
 <div style="display:flex; flex-wrap:wrap;">
-    <div style="flex:1; padding:5px;">
-        <img src="1.png" style="width:100%; height:auto;">
-    </div>
     <div style="flex:1; display:flex; flex-direction:column; padding:5px;">
-        <img src="2.png" style="flex:1; width:100%; height:auto;">
-        <img src="3.png" style="flex:1; width:100%; height:auto;">
+        <img src="screenshots/1.PNG" style="width:20%; height:auto;">
+        <img src="screenshots/2.PNG" style="flex:1; width:20%; height:auto;">
+        <img src="screenshots/3.PNG" style="flex:1; width:20%; height:auto;">
     </div>
 </div>
